@@ -3,7 +3,8 @@
 ### `—◉ 👑 DOUBTS ABOUT THE BOT?,  CONTACT ME 👑`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
-
+### `—◉ 🤩 Official bot number 🤩`
+<a href="http://wa.me/16018735554" target="blank"><img src="https://img.shields.io/badge/Official -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 ### `—◉ 👾 ACTIVATE IN TERMUX👾`
